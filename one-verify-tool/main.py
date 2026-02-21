@@ -59,7 +59,7 @@ except ImportError:
     HAS_DOC_GEN = False
 
 PROGRAM_ID = "67c8c14f5f17a83b745e3f82"
-SHEERID_API_URL = "https://services.sheerid.com/rest/v2"
+SHEERID_API_URL = "https://services.sheerid.com/verify/67c8c14f5f17a83b745e3f82/?verificationId=699a16ac84fd4632edd69ed1&utm_source=gemini&utm_medium=web&utm_campaign=gemini_ail_upsell_zero_state"
 
 UNIVERSITIES = [
     {"id": 378, "name": "Arizona State University", "domain": "asu.edu", "weight": 9999},
